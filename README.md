@@ -1,7 +1,7 @@
-![Header](./your-header-image-name.png)
+Turning challenges into opportunities
 <h1 align="center">Hi 👋, I'm Amrit Kumar Mahto</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/84377247/Innovation-Hub](https://mir-s3-cdn-cf.behance.net/project_modules/1400/fe332b84377247.5d62f1a4220f8.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*goaFvkjpQM-0p0h6.">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-amrit-mahto-05&label=Profile%20views&color=0e75b6&style=flat" alt="the-amrit-mahto-05" /> </p>
 
