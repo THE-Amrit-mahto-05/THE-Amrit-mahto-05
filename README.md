@@ -1,6 +1,6 @@
 Turning challenges into opportunities
 <h1 align="center">Hi 👋, I'm Amrit Kumar Mahto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate in AI&Ml from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*goaFvkjpQM-0p0h6.">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-amrit-mahto-05&label=Profile%20views&color=0e75b6&style=flat" alt="the-amrit-mahto-05" /> </p>
@@ -9,7 +9,7 @@ Turning challenges into opportunities
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **amrit.mahto@adypu.edu.in**
+  - 📫               How to reach me **yadhukumar045@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
