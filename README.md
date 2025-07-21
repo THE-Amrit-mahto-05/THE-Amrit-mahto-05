@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Turning+Challenges+into+Opportunities;Hi+%F0%9F%91%8B%2C+I'm+Amrit+Kumar+Mahto;AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Learning.+Building.+Evolving.;Welcome+to+my+developer+space+%F0%9F%92%BB" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Amrit Kumar Mahto</h1>
-<h3 align="center">🚀 AI & ML Explorer | Passionate Coder | Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi , I'm Amrit Kumar Mahto</h1>
+<h3 align="center"> AI & ML Explorer | Passionate Coder | Tech Enthusiast from India </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-amrit-mahto-05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,16 +13,16 @@
 
 ---
 
-### 🧠 About Me
+### ***About Me***
 
-- 🌟 I love solving real-world problems using technology.
-- 🤖 Currently working with Python, AI/ML, and automation tools.
-- 🛠️ Exploring open-source, cloud computing, and backend development.
-- 📫 Reach me at: **yadhukumar045@gmail.com**
+- I love solving real-world problems using technology.
+- Currently working with Python, AI/ML, and automation tools.
+- Exploring open-source, cloud computing, and backend development.
+- Reach me at: **yadhukumar045@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### ***Tech Stack***
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 🌍 Connect With Me
+### ***Connect With Me***
 
 <p align="left">
   <a href="mailto:yadhukumar045@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -50,7 +50,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### ***GitHub Achievements***
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-amrit-mahto-05&theme=algolia&no-frame=true&row=1&margin-w=10" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### ***GitHub Stats***
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=the-amrit-mahto-05&show_icons=true&theme=radical" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🚀 Most Used Languages
+### ***Most Used Languages***
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amrit-mahto-05&layout=compact&theme=radical" />
@@ -75,7 +75,7 @@
 
 ---
 
-### 💬 Quote of the Day
+### ***Quote of the Day***
 
 > "Don't watch the clock; do what it does. Keep going." – *Sam Levenson*
 
