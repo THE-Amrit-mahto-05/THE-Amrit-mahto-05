@@ -67,14 +67,6 @@
 
 ---
 
-### ***Most Used Languages***
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amrit-mahto-05&layout=compact&theme=radical" />
-</p>
-
----
-
 ### ***Quote of the Day***
 
 > "Don't watch the clock; do what it does. Keep going." – *Sam Levenson*
