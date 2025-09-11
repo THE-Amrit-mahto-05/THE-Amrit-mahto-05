@@ -64,13 +64,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=the-amrit-mahto-05&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=the-amrit-mahto-05&theme=radical" />
 </p>
-
----
-
-### ***Quote of the Day***
-
-> "Don't watch the clock; do what it does. Keep going." – *Sam Levenson*
-
----
-
 <p align="center">Thanks for visiting 🚀 — let's build the future together!</p>
