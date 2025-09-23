@@ -38,7 +38,6 @@
   
 </p>
 
-
 ---
 
 ### ***Connect With Me***
@@ -64,4 +63,26 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=the-amrit-mahto-05&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=the-amrit-mahto-05&theme=radical" />
 </p>
-<p align="center">Thanks for visiting 🚀 — let's build the future together!</p>
+
+---
+
+### ***Additional Dynamic Features***
+
+#### **Top Languages Used**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amrit-mahto-05&theme=radical&layout=compact" />
+</p>
+
+#### **GitHub Activity**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=the-amrit-mahto-05&theme=github&bg_color=ffffff&color=000000&line=00ff00&point=00ff00&area=true&hide_border=true" />
+</p>
+
+#### **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://github.com/the-amrit-mahto-05/github-contribution-grid-snake.svg" alt="snake"></a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting — let's build the future together!</p>
