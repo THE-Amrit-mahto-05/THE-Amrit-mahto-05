@@ -11,16 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=the-amrit-mahto-05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### ***About Me***
-
-- I love solving real-world problems using technology.
-- Currently working with Python, AI/ML, and automation tools.
-- Exploring open-source, cloud computing, and backend development.
-- Reach me at: **yadhukumar045@gmail.com**
-
----
 
 ### ***Tech Stack***
 
@@ -35,7 +25,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  
 </p>
 
 ---
@@ -47,42 +36,5 @@
   <a href="https://github.com/the-amrit-mahto-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
 
-### ***GitHub Achievements***
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=the-amrit-mahto-05&theme=algolia&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
-### ***GitHub Stats***
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=the-amrit-mahto-05&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=the-amrit-mahto-05&theme=radical" />
-</p>
-
----
-
-### ***Additional Dynamic Features***
-
-#### **Top Languages Used**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amrit-mahto-05&theme=radical&layout=compact" />
-</p>
-
-#### **GitHub Activity**
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=the-amrit-mahto-05&theme=github&bg_color=ffffff&color=000000&line=00ff00&point=00ff00&area=true&hide_border=true" />
-</p>
-
-#### **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/the-amrit-mahto-05/github-contribution-grid-snake.svg" alt="snake"></a>
-</p>
-
----
-
-<p align="center">Thanks for visiting — let's build the future together!</p>
