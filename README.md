@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Turning+Challenges+into+Opportunities;Hi,+I'm+Amrit+Kumar+Mahto;AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Learning.+Building.+Evolving.;Welcome+to+my+developer+space+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Turning+Challenges+into+Opportunities;Hi,+I'm+Amrit+Kumar+Mahto;AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Learning.+Building.+Evolving.;Welcome+to+my+developer+space" />
 </p>
 
 <h1 align="center">Hi, I'm Amrit Kumar Mahto</h1>
