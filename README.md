@@ -1,6 +1,6 @@
 # Hi, I'm Amrit Kumar Mahto
 
-I’m an AIML Engineer and Full-Stack Developer. I enjoy building practical systems that combine AI, computer vision, and scalable architectures.
+I’m an AIML and DevOps Engineer. I enjoy building practical systems that combine AI, computer vision, and scalable architectures.
 
 ---
 
