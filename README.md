@@ -13,28 +13,22 @@ I’m an AIML Engineer and Full-Stack Developer. I enjoy building practical syst
 ---
 ## Tech Stack & Tools
 
-### Languages & Core
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,swift,cpp,js,ts&perline=6" />
   </a>
 </p>
-
-### Frontend & Mobile
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
   </a>
 </p>
-
-### Backend & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,firebase,supabase&perline=7" />
   </a>
 </p>
-
-### AI/ML & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gcp,postman&perline=6" />
