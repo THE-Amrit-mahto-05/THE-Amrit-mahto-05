@@ -48,12 +48,16 @@ I’m an AIML Engineer and Full-Stack Developer. I enjoy building practical syst
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=THE-Amrit-mahto-05&show_icons=true&theme=react&hide_border=true" alt="Amrit's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-Amrit-mahto-05&theme=react&hide_border=true" alt="Amrit's Streak" />
 </p>
+
+</div>
 
 ### Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THE-Amrit-mahto-05&theme=react-dark)](https://github.com/THE-Amrit-mahto-05)
