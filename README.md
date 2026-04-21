@@ -11,7 +11,7 @@ I’m an AIML Engineer and Full-Stack Developer. I enjoy building practical syst
 - Full-stack developer working with modern web technologies
 - Active in open-source and hackathon communities
 ---
-## Tech Stack & Tools
+<h2 align="center">Tech Stack & Tools</h2>
 
 
 <p align="center">
