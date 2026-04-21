@@ -57,4 +57,14 @@ I’m an AIML Engineer and Full-Stack Developer. I enjoy building practical syst
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
+---
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=THE-Amrit-mahto-05&show_icons=true&theme=react&hide_border=true" alt="Amrit's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-Amrit-mahto-05&theme=react&hide_border=true" alt="Amrit's Streak" />
+</p>
+
+### Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THE-Amrit-mahto-05&theme=react-dark)](https://github.com/THE-Amrit-mahto-05)
