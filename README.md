@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amrit Kumar Mahto</h1>
 
-I’m an AIML and DevOps Engineer. I enjoy building practical systems that combine AI, computer vision, and scalable architectures.
+I’m an AIML and DevOps Engineer.
 
 ---
 <h2 align="center">About Me</h2>
