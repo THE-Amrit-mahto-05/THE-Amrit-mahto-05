@@ -4,12 +4,12 @@
 
 ---
 <h2 align="center">About Me</h2>
-<div align="center">
+
 - B.Tech student specializing in AI & ML
 - Interested in Computer Vision, Generative AI, and real-world ML systems
 - Full-stack developer working with modern web technologies
 - Active in open-source and hackathon communities
-</div>
+
 ---
 <h2 align="center">Tech Stack & Tools</h2>
 
