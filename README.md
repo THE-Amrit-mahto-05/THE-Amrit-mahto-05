@@ -9,7 +9,7 @@
 - Interested in Computer Vision, Generative AI, and real-world ML systems
 - Full-stack developer working with modern web technologies
 - Active in open-source and hackathon communities
-</div>div>
+</div>
 ---
 <h2 align="center">Tech Stack & Tools</h2>
 
