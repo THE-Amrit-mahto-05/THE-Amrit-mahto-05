@@ -1,10 +1,9 @@
-# Hi, I'm Amrit Kumar Mahto
+<h2 align="center">Hi, I'm Amrit Kumar Mahto</h2>
 
 I’m an AIML and DevOps Engineer. I enjoy building practical systems that combine AI, computer vision, and scalable architectures.
 
 ---
-
-## About Me
+<h2 align="center">About Me</h2>
 
 - B.Tech student specializing in AI & ML
 - Interested in Computer Vision, Generative AI, and real-world ML systems
