@@ -59,5 +59,6 @@ I’m an AIML and DevOps Engineer. I enjoy building practical systems that combi
 
 </div>
 
-### Contribution Graph
+<h2 align="center">Contribution Graph</h2>
+ 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THE-Amrit-mahto-05&theme=react-dark)](https://github.com/THE-Amrit-mahto-05)
