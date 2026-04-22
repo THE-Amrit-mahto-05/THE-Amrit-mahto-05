@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amrit Kumar Mahto</h1>
 
-I’m an AIML and DevOps Engineer.
+<p align="center" >I’m an AIML and DevOps Engineer </p>
 
 ---
 <h2 align="center">About Me</h2>
