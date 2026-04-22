@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Amrit Kumar Mahto</h2>
+<h1 align="center">Hi, I'm Amrit Kumar Mahto</h1>
 
 I’m an AIML and DevOps Engineer. I enjoy building practical systems that combine AI, computer vision, and scalable architectures.
 
