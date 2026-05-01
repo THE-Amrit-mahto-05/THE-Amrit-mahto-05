@@ -42,23 +42,3 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-
-
-
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=THE-Amrit-mahto-05&show_icons=true&theme=react&hide_border=true" alt="Amrit's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-Amrit-mahto-05&theme=react&hide_border=true" alt="Amrit's Streak" />
-</p>
-
-</div>
-
-<h2 align="center">Contribution Graph</h2>
- 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THE-Amrit-mahto-05&theme=react-dark)](https://github.com/THE-Amrit-mahto-05)
